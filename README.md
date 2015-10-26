@@ -1,4 +1,4 @@
-# ExplorableExplanations
+# explorableExplanations
 
 A workshop by [@somehats](https://github.com/SomeHats) and [@matteomenapace](https://github.com/matteomenapace).
 
