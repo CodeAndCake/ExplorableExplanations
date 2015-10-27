@@ -13,3 +13,9 @@ Based on [explorableexplanations.com](http://explorableexplanations.com/) by [@n
 - [ ] Working in small teams, jot down a few **ideas** for eE: these can be *issues* you care about, or *things* you'd like to explain to others through eE. If you're stuck, we'll have some ideas for you.
 - [ ] **Paper-prototype** your ideas!
 - [ ] We will share open-source code for eE that you can **remix**.
+
+### License
+
+[![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0)
