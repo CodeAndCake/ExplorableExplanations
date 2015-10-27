@@ -14,6 +14,14 @@ Based on [explorableexplanations.com](http://explorableexplanations.com/) by [@n
 - [ ] **Paper-prototype** your ideas!
 - [ ] We will share open-source code for eE that you can **remix**.
 
+### Reading list
+
+* [Explorable Explanations](http://worrydream.com/ExplorableExplanations) by Bret Victor
+* [Explorable Explanations](http://explorableexplanations.com/) by Nicky Case
+* [I Do And I Understand](http://blog.ncase.me/i-do-and-i-understand/) by Nicky Case
+* [Explorable Explanations Design Patterns](http://blog.ncase.me/explorable-explanations/) by Nicky Case
+* [Persuasive Games](http://bogost.com/books/persuasive_games/) by Ian Bogost
+
 ### License
 
 [![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
