@@ -22,6 +22,17 @@ Based on [explorableexplanations.com](http://explorableexplanations.com/) by [@n
 * [Explorable Explanations Design Patterns](http://blog.ncase.me/explorable-explanations/) by Nicky Case
 * [Persuasive Games](http://bogost.com/books/persuasive_games/) by Ian Bogost
 
+<!-- 
+
+TODO
+
+- [ ] https://github.com/ncase/emoji-prototype
+- [ ] Images from http://setosa.io
+- [ ] Add images from paper-prototyping
+
+-->
+
+
 ### License
 
 [![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0)
